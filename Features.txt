@@ -1,0 +1,17 @@
+-Inbuilt Data Model
+-Addition/Extensions
+-Audit Log
+-Reference data management
+-Pluggable Key
+-MQ support
+-Match and Merge with data decay
+-Logging / performance logging
+-Autorization
+-Inquiry Level
+-Business Rules
+-Pagination
+-Multilingual support
+-Freemarker Template based code generation
+-Data model to code
+------------------------------------------------------
+Yugandhar Unified view
